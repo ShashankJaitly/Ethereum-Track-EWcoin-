@@ -1,0 +1,12 @@
+{
+  "name": "hackvsit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ganache-cli": "ganache-cli -p 7545"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
