@@ -1848,10 +1848,42 @@
       "links": {},
       "address": "0x7D6f58fC1e2124481233610d313ec11D08689811",
       "transactionHash": "0x60f01aa0fdd26b92c91e3278ec0d09faa151d685a8498363874c98aff4ecd0c1"
+    },
+    "1580532906107": {
+      "events": {
+        "0x16cdf1707799c6655baac6e210f52b94b7cec08adcaf9ede7dfe8649da926146": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "internalType": "address",
+              "name": "sender",
+              "type": "address"
+            },
+            {
+              "indexed": false,
+              "internalType": "address",
+              "name": "receiver",
+              "type": "address"
+            },
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "amount",
+              "type": "uint256"
+            }
+          ],
+          "name": "CoinTransfer",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x6A2FE811A105D2dd345fe6E998FE7650B3b8B042",
+      "transactionHash": "0x7db44f66809575984729f36b13e673c26bda999c2c3803b18159251e86a8a52d"
     }
   },
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-01-31T18:46:45.876Z",
+  "updatedAt": "2020-02-01T04:56:48.762Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
